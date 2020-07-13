@@ -1,2 +1,2 @@
 # Dissolved gas chromatography
- GUI program to do chromatography of dissolved gas into the transformer oil
+GUI program to perform chromatography of dissolved gases into the transformer oil
